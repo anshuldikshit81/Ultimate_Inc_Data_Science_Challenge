@@ -50,9 +50,9 @@ improve its longterm
 rider retention (again, a few sentences will suffice).
 
 Data description
-● city: city this user signed up in 
-● phone: primary device for this user 
-● signup_date: date of account registration; in the form ‘YYYY MM DD’  
+● city: city this user signed up in. 
+● phone: primary device for this user. 
+● signup_date: date of account registration; in the form ‘YYYY MM DD’ .
 ● last_trip_date: the last time this user completed a trip; in the form ‘YYYY MM DD’  
 ● avg_dist: the average distance in miles per trip taken in the first 30 days after signup 
 ● avg_rating_by_driver: the rider’s average rating over all of their trips 
