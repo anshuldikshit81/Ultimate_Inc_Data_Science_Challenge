@@ -50,6 +50,7 @@ improve its longterm
 rider retention (again, a few sentences will suffice).
 
 Data description
+
 ● city: city this user signed up in. 
 ● phone: primary device for this user. 
 ● signup_date: date of account registration; in the form ‘YYYY MM DD’ .
