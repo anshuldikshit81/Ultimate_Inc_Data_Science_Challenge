@@ -48,16 +48,14 @@ Include any key indicators of model performance.
 3. Briefly discuss how Ultimate might leverage the insights gained from the model to
 improve its longterm
 rider retention (again, a few sentences will suffice).
+
 Data description
-
-● city: city this user signed up in
-
-● phone: primary device for this user
-
-● signup_date: date of account registration; in the form ‘YYYY MM DD’
-● last_trip_date: the last time this user completed a trip; in the form ‘YYYY MM DD’
-● avg_dist: the average distance in miles per trip taken in the first 30 days after signup
-● avg_rating_by_driver: the rider’s average rating over all of their trips
+● city: city this user signed up in 
+● phone: primary device for this user 
+● signup_date: date of account registration; in the form ‘YYYY MM DD’  
+● last_trip_date: the last time this user completed a trip; in the form ‘YYYY MM DD’  
+● avg_dist: the average distance in miles per trip taken in the first 30 days after signup 
+● avg_rating_by_driver: the rider’s average rating over all of their trips 
 ● avg_rating_of_driver: the rider’s average rating of their drivers over all of their trips
 ● surge_pct: the percent of trips taken with surge multiplier > 1
 ● avg_surge: The average surge multiplier over all of this user’s trips
